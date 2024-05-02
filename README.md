@@ -1,4 +1,4 @@
-# Project 1 Description
+# Project 1 description
 
 1. **Data Cleaning**: The initial dataset contains some unnecessary and redundant information. Your first task is to clean and prepare it for analysis. In doing so:
     - Remove the 'Unnamed: 0' column from the dataset.
