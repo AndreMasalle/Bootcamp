@@ -1,9 +1,15 @@
-# Bootcamp
+# Project 1 Description
 
-This repo will be used to store all of my past bootcamp projects, the topic of each project is shown below:
-- Project 1: Data Cleaning and Visualization
-- Project 2: Machine Learning
-- Project 3: Deep Learning (Math)
-- Project 4: Pytorch
-- Project 5: Transfer Learning
-- Project 6: Image Classification using Pipeline dan Gradio
+1. **Data Cleaning**: The initial dataset contains some unnecessary and redundant information. Your first task is to clean and prepare it for analysis. In doing so:
+    - Remove the 'Unnamed: 0' column from the dataset.
+    - Removing the Newline Characters.
+    - Look for columns which contain star ('★') characters. Remove these characters from all such columns.
+    - Fill in the missing values using an appropriate method.
+    - In the 'Value', 'Wage', and 'Release Clause' columns, remove the '€', 'K', and 'M' characters and convert the currency value to 'int'. For eg, "M" in value column is Million, so multiply the row values by 1,000,000, etc.
+
+2. **Data Visualization**: After the data has been cleaned and prepared, use appropriate data visualization methods to represent the data as follows:
+    - Create a Pie Chart to display the preferred foot ('Left' or 'Right') among the FIFA 21 players.
+    - Use a Bar Plot to represent the top 3 FIFA 21 players.
+    - Visualize the best FIFA teams from 100 players based on the 'OVA' score using a Bar Plot.
+    - Use a Bar Plot to display the top 10 most valuable FIFA teams.
+    - Create a Scatter Plot to show players who are highly valuable but still underpaid.
