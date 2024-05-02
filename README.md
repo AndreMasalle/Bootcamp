@@ -1,9 +1,7 @@
-# Bootcamp
+# Project 3 description
 
-This repo will be used to store all of my past bootcamp projects, the topic of each project is shown below:
-- Project 1: Data Cleaning and Visualization
-- Project 2: Machine Learning
-- Project 3: Deep Learning (Math)
-- Project 4: Pytorch
-- Project 5: Transfer Learning
-- Project 6: Image Classification using Pipeline dan Gradio
+You will be given some task of calculation in forms of:
+- Notebook that contains neural networks
+- Excel Sheet that contains calculation of gradient descent
+
+
